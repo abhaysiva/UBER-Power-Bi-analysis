@@ -5,11 +5,11 @@
 
 1. [Project Overview](#project-overview)
 2. [Key Features](#key-features)
-3. [Highlights](#-Highlights)
-4. [Challenges Faced](#-ChallengesFaced)
+3. [Highlights](#Highlights)
+4. [Challenges Faced](#challenges-faced)
 5. [Insights](#-Insights)
 6. [SnapShot](#Snapshots)
-7. [Conclusion & Closing Remarks](#conclusion)
+7. [Conclusion & Closing Remarks](#conclusion-Closing-remarks)
 ---
 
 | Dashboard| 
@@ -17,7 +17,7 @@
 | ![](DashBoard-Snapshot/1.png)| 
 
 
-##   📊 Project Overview:
+## 📊 Project Overview:
 
 
 The Uber Trip Details Analysis Power BI project is designed to provide actionable insights into ride patterns, customer preferences, and operational trends. Using interactive dashboards, the analysis focuses on trip volume, value, and distance metrics, offering a comprehensive view for data-driven decision-making.
