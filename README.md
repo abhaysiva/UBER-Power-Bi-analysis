@@ -14,7 +14,7 @@
 
 | Dashboard| 
 |--------------------------|
-| ![](DashBoard-Snapshot/1.png)| 
+| ![](https://github.com/abhaysiva/UBER-Power-Bi-analysis/blob/8334f73f8f5dd34fddf8f3bb79f1af4328931ade/DashBoard-Snapshot/1.png)| 
 
 
 ## 📊 Project Overview:
@@ -95,19 +95,19 @@ This project is a complete example of combining **Power BI’s visual storytelli
 
 | Overview | 
 |--------------------------|
-| ![](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/1.png)| 
+| ![](https://github.com/abhaysiva/UBER-Power-Bi-analysis/blob/8334f73f8f5dd34fddf8f3bb79f1af4328931ade/DashBoard-Snapshot/1.png)| 
 
 
 
 ---
 | Time Analysis | 
 |--------------------------|
-| ![](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/8.png)| 
+| ![](https://github.com/abhaysiva/UBER-Power-Bi-analysis/blob/8334f73f8f5dd34fddf8f3bb79f1af4328931ade/DashBoard-Snapshot/2.png)| 
 
 ---
 | Details Overview | 
 |--------------------------|
-| ![](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/8.png)| 
+| ![](https://github.com/abhaysiva/UBER-Power-Bi-analysis/blob/8334f73f8f5dd34fddf8f3bb79f1af4328931ade/DashBoard-Snapshot/3.png)| 
 
 ---
 
@@ -116,19 +116,19 @@ This project is a complete example of combining **Power BI’s visual storytelli
 ---
 | Total Booking| Total Booking Value|Total Trip Distance|
 |-------------|-------------|-------------|
-|![image alt](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/5.png)|![image alt](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/7.png)|![image alt](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/9.png)
+|![image alt](https://github.com/abhaysiva/UBER-Power-Bi-analysis/blob/8334f73f8f5dd34fddf8f3bb79f1af4328931ade/DashBoard-Snapshot/2.png)|![image alt](https://github.com/abhaysiva/UBER-Power-Bi-analysis/blob/8334f73f8f5dd34fddf8f3bb79f1af4328931ade/DashBoard-Snapshot/6.png)|![image alt](https://github.com/abhaysiva/UBER-Power-Bi-analysis/blob/8334f73f8f5dd34fddf8f3bb79f1af4328931ade/DashBoard-Snapshot/7.png)
 
 ---
 
 |Tooltip| 
 |--------------------------|
-| ![](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/8.png)| 
+| ![](https://github.com/abhaysiva/UBER-Power-Bi-analysis/blob/8334f73f8f5dd34fddf8f3bb79f1af4328931ade/DashBoard-Snapshot/4.png)| 
 
 ---
 
 #### ER Diagram
 
-![er_diagram](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/f619c8ac855de4b0536daf74cfd9a3824e4de5cd/SnapShot%20of%20Dashboards/erdiagram.png)
+![er_diagram](https://github.com/abhaysiva/UBER-Power-Bi-analysis/blob/8334f73f8f5dd34fddf8f3bb79f1af4328931ade/DashBoard-Snapshot/5.png)
 
 
 ---
