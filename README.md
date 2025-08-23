@@ -1,6 +1,5 @@
 
 #  UBER Trip Analysis - Power BI
-### !!! Project file Coming Soon- Those who Need immediate Contact me through Linked IN !!!
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
